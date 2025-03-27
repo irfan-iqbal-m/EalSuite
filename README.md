@@ -24,6 +24,8 @@ This is a Laravel 12 project that implements a modular API structure for managin
 
 2. **composer install:**
 
+composer install
+
 Copy .env file and set your database credentials:
 
 cp .env.example .env
@@ -36,3 +38,8 @@ php artisan migrate --seed
 4. **Serve the app:**
 
 php artisan serve
+
+5. **Login credentials:**
+
+User_name: admin@admin.com
+Password: 123456
